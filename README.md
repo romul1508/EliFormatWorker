@@ -12,6 +12,10 @@ It uses Microsoft ASP .NET Core version 5.0 to perform the functionality.
 The program functions in the line of Microsoft Windows (x64) operating systems, as well as in LINUX.
 Microsoft Visual Studio 2019 was used to develop the program.
 
+You can follow the link https://github.com/romul1508/ImageToRGB16ELI to download the code 
+for the ImageToRGB16ELI application, which allows you to convert an image in jpg format to a ELI format 
+and save it in a binary file on disk.
+
 Description of the ELI file format:
 
 At the beginning of the file there is a header that describes the image parameters:
