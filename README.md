@@ -10,6 +10,7 @@ The program uses all available processor cores for multithreading.
 The program was created in the C # programming language. 
 It uses Microsoft ASP .NET Core version 5.0 to perform the functionality. 
 The program functions in the line of Microsoft Windows (x64) operating systems, as well as in LINUX.
+Microsoft Visual Studio 2019 was used to develop the program.
 
 Description of the ELI file format:
 
